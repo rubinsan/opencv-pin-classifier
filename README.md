@@ -1,6 +1,10 @@
 # opencv-pin-classifier
 Computer vision application that classifies and counts small colored plastic pins from static images
 
+<p align="center">
+<img src="./test_17.png"/>
+</p>
+
 ## Authors 
 
 * **Irene Álvarez Caro**
