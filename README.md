@@ -2,7 +2,7 @@
 Computer vision application that classifies and counts small colored plastic pins from static images
 
 <p align="center">
-<img src="./test_17.png"/>
+<img src="./test_17.png" style="height: 70%; width: 70%;"/>
 </p>
 
 ## Authors 
